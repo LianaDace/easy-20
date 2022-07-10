@@ -1,0 +1,12 @@
+{
+    "autoload": {
+        "psr-4": {
+            "App\\": "app",
+            "Tests\\": "tests"
+        }
+    },
+    "require": {
+        "nesbot/carbon": "^2.59",
+        "pestphp/pest": "^1.21"
+    }
+}
